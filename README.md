@@ -111,3 +111,13 @@ git fetch --prune
 git tag -d tag-name
 git push origin :refs/tags/tag-name
 ```
+
+# Rebase
+
+## 1. Interactive Rebase
+
+Start intercative rebase last **3** commits
+
+```
+git rebase -i HEAD~3
+```
