@@ -1,6 +1,6 @@
-## Tags
+# Tags
 
-### 1. Delete remote tag
+## 1. Delete remote tag
 
 ```
 git tag -d tag-name
