@@ -38,4 +38,8 @@ git push origin -u new-name
 
 ### 5. Push branch to remote by force
 
+It's useful after local rebase a branch which was pushed to remote
 
+```
+git push -f origin branch-name
+```
