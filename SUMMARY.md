@@ -4,4 +4,5 @@
 * [0. Chapter](0-chapter.md)
 * [Commit](commit.md)
 * [Links](links.md)
+* Branches
 
