@@ -7,4 +7,5 @@
 * [Branches](branches.md)
 * [Rebase](rebase.md)
 * [Fetch](fetch.md)
+* [Tags](tags.md)
 
