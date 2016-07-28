@@ -1,6 +1,6 @@
 # Commit
 
-# 1. Rename the last commit message
+## 1. Rename the last commit message
 
 Sometimes I want to edit the last local commit message:
 
@@ -16,7 +16,7 @@ Or to re write the whole commit message in one line:
 git commit --amend -m "New commit message"
 ```
 
-# 2. Add a file to the last local commit
+## 2. Add a file to the last local commit
 
 ```
 git add file-name
