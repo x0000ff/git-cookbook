@@ -1,6 +1,6 @@
 # Rebase
 
-# 1. Interactive Rebase
+## 1. Interactive Rebase
 
 Start intercative rebase last **3** commits
 
