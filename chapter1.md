@@ -36,3 +36,6 @@ Switch to the branch and then:
 git push origin -u new-name
 ```
 
+### 5. Push branch to remote by force
+
+
