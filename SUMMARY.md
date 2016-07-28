@@ -6,4 +6,5 @@
 * [Links](links.md)
 * [Branches](branches.md)
 * [Rebase](rebase.md)
+* [Fetch](fetch.md)
 
