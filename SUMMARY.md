@@ -1,10 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [Commit](commit.md)
-* [Branches](branches.md)
-* [Rebase](rebase.md)
-* [Fetch](fetch.md)
-* [Tags](tags.md)
+* [Book](README.md)
 * [Links](links.md)
 
