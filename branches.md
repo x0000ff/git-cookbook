@@ -1,6 +1,6 @@
-## Branches
+# Branches
 
-### 1. Rename your local branch.
+## 1. Rename your local branch.
 
 If you are on the branch you want to rename:
 
