@@ -68,6 +68,25 @@ It's useful after local rebase a branch which was pushed to remote
 git push -f origin branch-name
 ```
 
+### 6. List of local branches
+
+```
+git branch
+```
+
+### 7. List of all branches
+
+```
+git branch --all
+```
+
+or 
+
+```
+git branch -a
+```
+
+
 ## Rebase
 
 ### 1. Interactive Rebase
