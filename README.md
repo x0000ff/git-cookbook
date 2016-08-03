@@ -10,7 +10,11 @@ My Git Cookbook with notes during my learning.
 
 ## 1. Cleanup
 
+`git-prune` - Prune all unreachable objects from the object database
 
+```
+git prune
+```
 
 
 # Commit
