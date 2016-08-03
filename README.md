@@ -115,7 +115,8 @@ git push origin :refs/tags/tag-name
 ## 2. Move tag to other commit
 
 ```
-
+git tag --force v1.0 <NEW-COMMIT-HASH>
+git push --force --tags
 ```
 
 > [Stackoverflow question](http://stackoverflow.com/a/25849917/2374209)
