@@ -112,7 +112,7 @@ git tag -d tag-name
 git push origin :refs/tags/tag-name
 ```
 
-## 2. Move tag to other commit
+## 2. Move tag to other commit and push it to remote
 
 ```
 git tag --force v1.0 <NEW-COMMIT-HASH>
