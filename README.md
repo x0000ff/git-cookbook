@@ -8,7 +8,7 @@ My Git Cookbook with notes during my learning.
 
 # Common
 
-## 1. Cleanup
+## Cleanup
 
 `git-prune` - Prune all unreachable objects from the object database
 
