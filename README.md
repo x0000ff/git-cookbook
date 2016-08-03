@@ -114,7 +114,11 @@ git push origin :refs/tags/tag-name
 
 ## 2. Move tag to other commit
 
-> [Stackoverflow question](http://stackoverflow.com/questions/25849019/move-tag-one-commit-ahead)
+```
+
+```
+
+> [Stackoverflow question](http://stackoverflow.com/a/25849917/2374209)
 
 # Rebase
 
