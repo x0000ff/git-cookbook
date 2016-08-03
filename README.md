@@ -6,6 +6,13 @@
 
 My Git Cookbook with notes during my learning.
 
+# Common
+
+## 1. Cleanup
+
+
+
+
 # Commit
 
 ## Rename the last commit message
