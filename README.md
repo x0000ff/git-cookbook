@@ -134,6 +134,14 @@ git push --force --tags
 
 > [Stackoverflow question](http://stackoverflow.com/a/25849917/2374209)
 
+## Remove remote  
+ 
+```
+git tag -d release01git push origin :refs/tags/release01
+```
+
+> 
+
 # Rebase
 
 ## Interactive Rebase
