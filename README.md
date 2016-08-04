@@ -137,10 +137,11 @@ git push --force --tags
 ## Remove remote  
  
 ```
-git tag -d release01git push origin :refs/tags/release01
+git tag -d release01
+git push origin :refs/tags/release01
 ```
 
-> 
+> [How do I remove or delete a tag from a Git repo](https://confluence.atlassian.com/bitbucket/how-do-i-remove-or-delete-a-tag-from-a-git-repo-282175551.html)
 
 # Rebase
 
