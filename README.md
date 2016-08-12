@@ -45,7 +45,7 @@ git commit --amend
 ```
 
 # Branches
-
+  
 ## Rename your local branch.
 
 If you are on the branch you want to rename:
