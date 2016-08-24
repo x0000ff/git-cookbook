@@ -46,6 +46,13 @@ git commit --amend
 
 # Branches
   
+## Change branch HEAD
+
+```
+git reset --hard HEAD~1
+git reset --hard <COMMIT_HASH>
+```
+
 ## Checkout and track a remote 
 
 ```
