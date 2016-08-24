@@ -46,6 +46,12 @@ git commit --amend
 
 # Branches
   
+## Checkout and track a remote 
+
+```
+git checkout -b develop --track origin/develop
+```
+
 ## Rename your local branch.
 
 If you are on the branch you want to rename:
