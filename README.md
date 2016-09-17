@@ -53,7 +53,21 @@ git reset --hard HEAD~1
 git reset --hard <COMMIT_HASH>
 ```
 
-## Checkout and track a remote 
+### Reset 
+
+- Remove files from staged area
+
+    ```
+    git reset
+    ``` 
+
+- Reset completely to state of `HEAD`
+
+    ```
+    git reset --hard 
+    ```
+
+## Checkout and track a remote
 
 ```
 git checkout -b develop --track origin/develop
