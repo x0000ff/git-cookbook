@@ -53,7 +53,7 @@ git reset --hard HEAD~1
 git reset --hard <COMMIT_HASH>
 ```
 
-### Reset 
+## Reset 
 
 - Remove files from staged area
 
@@ -61,7 +61,7 @@ git reset --hard <COMMIT_HASH>
     git reset
     ``` 
 
-- Reset completely to state of `HEAD`
+- Reset completely to `HEAD` state 
 
     ```
     git reset --hard 
