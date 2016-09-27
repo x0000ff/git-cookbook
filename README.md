@@ -67,6 +67,14 @@ git reset --hard <COMMIT_HASH>
     git reset --hard 
     ```
 
+- Pull remote ignoring local branch
+
+    ```
+    git fetch --all
+    git reset --hard origin/<branch_name>
+    ```
+
+
 ## Checkout and track a remote
 
 ```
