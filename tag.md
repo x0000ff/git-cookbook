@@ -44,7 +44,12 @@ commit
 
 ```
 $ git cat-file -p the-beginning
-commit
+tree 99339a532fb221a08fb0faf07175e5380bc0999d
+parent 6347ba4da019ebb50a9bcdb6ced527adb83c78ee
+author Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500360967 -0400
+committer Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500360967 -0400
+
+Second
 ```
 
 Adding tag you can pass `<commit hash>` or `<object>`
