@@ -233,3 +233,8 @@ $ git cat-file -p 5a2554e0627a4bd4da9ea522975b9b97f5278b46
 $ git cat-file -t c200906efd24ec5e783bee7f23b5d7c941b0c12c
 blob
 ```
+
+```
+$ git cat-file -p c200906efd24ec5e783bee7f23b5d7c941b0c12c
+222
+```
