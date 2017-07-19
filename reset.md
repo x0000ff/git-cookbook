@@ -9,6 +9,8 @@ There 3 main parts of the Git
 * `--soft`
 The staged snapshot and working directory are not altered in any way.
 
-* `--mixed` – The staged snapshot is updated to match the specified commit, but the working directory is not affected. This is the default option.
+* `--mixed`
+The staged snapshot is updated to match the specified commit, but the working directory is not affected. This is the default option.
 
-* `--hard` – The staged snapshot and the working directory are both updated to match the specified commit.
+* `--hard`
+The staged snapshot and the working directory are both updated to match the specified commit.
