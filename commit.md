@@ -1,4 +1,4 @@
-![](/assets/commit-2.png)# Save it!
+![](/assets/commit-second.png)![](/assets/commit-2.png)# Save it!
 
 ```
 $ git init
