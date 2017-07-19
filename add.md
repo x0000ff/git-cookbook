@@ -163,7 +163,7 @@ $ tree .git/objects
 
 **Nothing changed!** 
 
-**Git** just **can't** create any object because new object will have the same hash and content.
+**Git** just **can't create** any object because new object will have the same hash and content.
 
 
 
