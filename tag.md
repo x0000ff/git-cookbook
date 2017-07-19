@@ -6,3 +6,10 @@ Tag is an object
 
 ## My first tag
 
+$ git tag -a -m "" my-tag <hash>
+
+## List
+
+```
+$ git tag
+```
