@@ -69,3 +69,36 @@ We have these objects:
 - `61caec3709a1e6473b2f33bfc92bd9d138071e88`
 - `ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4`
 
+## Commit - `ce6496`
+
+```
+$ git cat-file -p ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4
+tree 3c1cb3829a09a57df9ea94f7bfdf76ed123161c2
+author Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500482225 -0400
+committer Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500482225 -0400
+
+Initial commit
+```
+
+## Tree `.` - `3c1cb3`
+
+```
+$ git cat-file -p 3c1cb3829a09a57df9ea94f7bfdf76ed123161c2
+100644 blob 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c	1.txt
+040000 tree 61caec3709a1e6473b2f33bfc92bd9d138071e88	files
+```
+
+## Tree `./files` - `61caec`
+
+```
+$ git cat-file -p 61caec3709a1e6473b2f33bfc92bd9d138071e88
+git cat-file -p 61caec3709a1e6473b2f33bfc92bd9d138071e88
+100644 blob 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c	2.txt
+```
+
+# Blob `111` - `58c9bd`
+
+```
+$ git cat-file -p 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
+111
+```
