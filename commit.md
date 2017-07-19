@@ -155,6 +155,12 @@ blob | `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
 
 ![](/assets/commit-initial.png)
 
+Each commit contains at least 3 parts: 
+
+- Commit
+- Tree
+- Blob
+
 # Let's add another commit
 
 ```
