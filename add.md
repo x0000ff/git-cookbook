@@ -171,7 +171,9 @@ $ tree .git/objects
 
 **Git** just **can't create** any **object** because new object will have **the same hash and content**.
 
-## Further reading
+---
+
+# Further reading
 
 [Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
 
