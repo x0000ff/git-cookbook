@@ -17,7 +17,7 @@ The staged snapshot and the working directory are both updated to match the spec
 ![](/assets/reset.png)
 > https://wac-cdn.atlassian.com/dam/jcr:2528918b-5c1a-4ab5-8454-88c3a66b14d1/03.svg?cdnVersion=fk
 
-More info:
+## More info:
 
 [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
 
