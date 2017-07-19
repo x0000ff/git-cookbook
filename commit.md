@@ -64,7 +64,8 @@ $ tree .git
 Let's checkout what was created...
 
 We have these objects:
-- 3c1cb3829a09a57df9ea94f7bfdf76ed123161c2
-- 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
-- 61caec3709a1e6473b2f33bfc92bd9d138071e88
-- ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4
+- `3c1cb3829a09a57df9ea94f7bfdf76ed123161c2`
+- `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
+- `61caec3709a1e6473b2f33bfc92bd9d138071e88`
+- `ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4`
+
