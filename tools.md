@@ -5,7 +5,7 @@ Here you can find usefull tools for Mac OS X
 
 - [Draw diagrams](https://www.draw.io)
 
-- [SourceTree](https://www.sourcetreeapp.com/)
+- [SourceTree - A free Git client for Windows and Mac](https://www.sourcetreeapp.com/)
 
 
 
