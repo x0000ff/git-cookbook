@@ -4,4 +4,4 @@
   <img src="/assets/git-logo.png" alt="Git logo">
 </p>
 
-My Git Cookbook with notes during my learning.
+My Git Cookbook with notes during learning.
