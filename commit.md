@@ -238,3 +238,7 @@ blob
 $ git cat-file -p c200906efd24ec5e783bee7f23b5d7c941b0c12c
 222
 ```
+
+And now we have graph as at this picture
+
+ 
