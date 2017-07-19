@@ -47,7 +47,3 @@ $ tree .git
 # Further reading
 
 - `$ git help init`
-
-
-
-
