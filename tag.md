@@ -63,6 +63,18 @@ Deleted tag 'the-beginning' (was 885bb6c)
 $ git tag -a -m "My annotation" another-feature
 ```
 
+What's the difference?
+
+```
+$ git cat-file -p another-feature
+object 242a260315700452bd8a28b6d2eb8c7f086a8830
+type commit
+tag another-feature
+tagger Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500493476 -0400
+
+My annotation
+```
+
 # Further reading
 
 - `$ git help tag`
