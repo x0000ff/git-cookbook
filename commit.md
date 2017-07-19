@@ -156,4 +156,4 @@ tree | `3c1cb3829a09a57df9ea94f7bfdf76ed123161c2`
 tree |`61caec3709a1e6473b2f33bfc92bd9d138071e88`
 blob | `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
 
-![](/assets/commit.png)
+![](/assets/commit-transparent.png)
