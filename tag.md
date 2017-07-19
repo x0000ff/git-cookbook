@@ -53,4 +53,6 @@ $ git tag -a -m "" my-tag <hash>
 
 # Further reading
 
-> `$ git help tag`
+- `$ git help tag`
+
+- [2.6 Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
