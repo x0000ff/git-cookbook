@@ -111,7 +111,7 @@ As you can see appeared new object `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
 
 - What is `58c9bd...`?
 
-  It's a **sha1** hash of `blob⎵<blob size>\n<content>`
+  It's a **sha1** hash of `blob⎵<blob size>\0<content>`
   ```
   $ git hash-object 1.txt
 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
