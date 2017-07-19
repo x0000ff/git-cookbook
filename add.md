@@ -3,7 +3,7 @@
 Let's create a file
 
 ```
-$ echo "111" > ./1.txt
+$ echo "111" > 1.txt
 $ ls .
 1.txt
 ```
