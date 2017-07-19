@@ -5,6 +5,7 @@
   * [init](init.md)
   * [add](add.md)
   * [commit](commit.md)
+  * [tag](tag.md)
   * [reset](reset.md)
 * [Links](links.md)
 * [Tools](tools.md)
