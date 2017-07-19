@@ -137,7 +137,20 @@ $ tree .
 ```
 $ git add .
 $ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   1.txt
+	new file:   files/2.txt
 ```
+
+So, what do we have in the **objects**?
+
+
 
 
 
