@@ -11,5 +11,5 @@
 * [Tools](tools.md)
 * [Notes](notes.md)
 * [Plumbing](plumbing.md)
-* [cat-file](cat-file.md)
+  * [cat-file](cat-file.md)
 
