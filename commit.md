@@ -69,19 +69,7 @@ We have these objects:
 - `61caec3709a1e6473b2f33bfc92bd9d138071e88`
 - `ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4`
 
-## `cat-file`
-
-Git has a tool to inspect its files: `cat-file`
-
-- To get object **type**
-  ```
-   $ git cat-file -t <HASH>
-   ``` 
-
-- To get object **content**
-  ```
-   $ git cat-file -p <HASH>
-   ``` 
+Before start lets read about [`cat-file`](cat-file.md)
 
 ## `ce6496` - commit
 
