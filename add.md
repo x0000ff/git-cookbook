@@ -70,3 +70,35 @@ Changes to be committed:
 
 	new file:   1.txt
  ``` 
+ 
+ ```
+ $ tree .git
+.git
+├── HEAD
+├── branches
+├── config
+├── description
+├── hooks
+│   ├── applypatch-msg.sample
+│   ├── commit-msg.sample
+│   ├── post-update.sample
+│   ├── pre-applypatch.sample
+│   ├── pre-commit.sample
+│   ├── pre-push.sample
+│   ├── pre-rebase.sample
+│   ├── prepare-commit-msg.sample
+│   └── update.sample
+├── index
+├── info
+│   └── exclude
+├── objects
+│   ├── 58
+│   │   └── c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
+│   ├── info
+│   └── pack
+└── refs
+    ├── heads
+    └── tags
+
+10 directories, 15 files
+```
