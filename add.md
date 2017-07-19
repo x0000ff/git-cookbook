@@ -105,6 +105,14 @@ Changes to be committed:
 
 As you can see appeared new object `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
 
-- What is this?  
-It is a blob with contents of `1.txt`
+- What is this?
 
+  It is a blob with contents of `1.txt`
+
+- What is `58c9bd...`?
+
+  It's a **sha1** hash of `blob⎵<blob size>\n<content>`
+  ```
+  $ git hash-object 1.txt
+58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
+  ```
