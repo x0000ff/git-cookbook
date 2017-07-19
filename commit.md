@@ -241,3 +241,5 @@ $ git cat-file -p c200906efd24ec5e783bee7f23b5d7c941b0c12c
 
 And now we have graph as at this picture
 
+![](/assets/commit-second.png)
+
