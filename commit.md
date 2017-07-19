@@ -171,5 +171,27 @@ $ git commit -m "Second commit"
 
 ```
 $ tree .git/objects
-
+.git/objects
+├── 3c
+│   └── 1cb3829a09a57df9ea94f7bfdf76ed123161c2
+├── 58
+│   └── c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
+├── 5a
+│   └── 2554e0627a4bd4da9ea522975b9b97f5278b46
+├── 61
+│   └── caec3709a1e6473b2f33bfc92bd9d138071e88
+├── c2
+│   └── 00906efd24ec5e783bee7f23b5d7c941b0c12c
+├── ce
+│   └── 6496b7a3dd69b1ee8e403c22b77a148bd38ec4
+├── e1
+│   └── ed469b8595e129f85af5b6d1fd70957fa5a95a
+├── info
+└── pack
 ```
+
+And we have **3 new** files:
+
+`5a2554e0627a4bd4da9ea522975b9b97f5278b46`
+`c200906efd24ec5e783bee7f23b5d7c941b0c12c`
+`e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
