@@ -157,3 +157,19 @@ tree |`61caec3709a1e6473b2f33bfc92bd9d138071e88`
 blob | `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
 
 ![](/assets/commit-transparent.png)
+
+# Let's add another commit
+
+```
+$ echo "222" > 2.txt
+$ git add .
+$ git commit -m "Second commit"
+[master e1ed469] Second commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 2.txt
+```
+
+```
+$ tree .git/objects
+
+```
