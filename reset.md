@@ -1,4 +1,4 @@
-# Make ~~America~~ Our Project Great Again!
+![](/assets/main-components.png)# Make ~~America~~ Our Project Great Again!
 
 [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
 
@@ -16,3 +16,5 @@ The staged snapshot is updated to match the specified commit, but the working di
 The staged snapshot and the working directory are both updated to match the specified commit.
 
 ![](https://wac-cdn.atlassian.com/dam/jcr:2528918b-5c1a-4ab5-8454-88c3a66b14d1/03.svg?cdnVersion=fk)
+
+![](assets/reset.png)
