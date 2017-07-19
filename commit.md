@@ -110,7 +110,7 @@ $ git cat-file -p 3c1cb3829a09a57df9ea94f7bfdf76ed123161c2
 040000 tree 61caec3709a1e6473b2f33bfc92bd9d138071e88	files
 ```
 
-## `61caec` - Tree `./files`
+### `61caec` - Tree `./files`
 
 - Type
 
@@ -128,7 +128,7 @@ git cat-file -p 61caec3709a1e6473b2f33bfc92bd9d138071e88
 100644 blob 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c	2.txt
 ```
 
-# `58c9bd` - Blob `111`
+## `58c9bd` - Blob `111`
 
 - Type
 
@@ -144,3 +144,15 @@ blob
 $ git cat-file -p 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
 111
 ```
+
+## Result
+
+So, we have this situation:
+
+Type | Hash
+---|---
+commit | `3c1cb3829a09a57df9ea94f7bfdf76ed123161c2`
+blob | `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
+tree |`61caec3709a1e6473b2f33bfc92bd9d138071e88`
+tree |`ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4`
+
