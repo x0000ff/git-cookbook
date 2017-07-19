@@ -69,16 +69,27 @@ We have these objects:
 - `61caec3709a1e6473b2f33bfc92bd9d138071e88`
 - `ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4`
 
-## `ce6496` - commit
+## `cat-file`
 
-- Type
+Git has a tool to inspect its files: `cat-file`
+
+- To get object **type**
+  ```
+   $ git cat-file -t <HASH>
+   ``` 
+
+- To get object **content**
+  ```
+   $ git cat-file -p <HASH>
+   ``` 
+
+
+## `ce6496` - commit
 
 ```
 $ git cat-file -t ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4
 commit
 ```
-
-- Content
 
 ```
 $ git cat-file -p ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4
@@ -95,14 +106,10 @@ $ cat ./git/
 
 ## `3c1cb3` - tree `.`
 
-- Type
-
 ```
 $ git cat-file -t ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4
 tree
 ```
-
-- Content
 
 ```
 $ git cat-file -p 3c1cb3829a09a57df9ea94f7bfdf76ed123161c2
@@ -112,15 +119,10 @@ $ git cat-file -p 3c1cb3829a09a57df9ea94f7bfdf76ed123161c2
 
 ### `61caec` - tree `./files`
 
-- Type
-
 ```
 $ git cat-file -t 61caec3709a1e6473b2f33bfc92bd9d138071e88
 tree
 ```
-
-- Content
-
 
 ```
 $ git cat-file -p 61caec3709a1e6473b2f33bfc92bd9d138071e88
@@ -130,14 +132,10 @@ git cat-file -p 61caec3709a1e6473b2f33bfc92bd9d138071e88
 
 ## `58c9bd` - blob "111"
 
-- Type
-
 ```
 $ git cat-file -t 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
 blob
 ```
-
-- Content
 
 
 ```
