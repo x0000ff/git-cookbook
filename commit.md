@@ -83,7 +83,6 @@ Git has a tool to inspect its files: `cat-file`
    $ git cat-file -p <HASH>
    ``` 
 
-
 ## `ce6496` - commit
 
 ```
