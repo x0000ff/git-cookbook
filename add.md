@@ -175,8 +175,6 @@ $ tree .git/objects
 
 # Further reading
 
-[Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
+- `$ git help add`
 
-
-
-
+- [Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
