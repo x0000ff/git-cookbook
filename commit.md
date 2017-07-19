@@ -196,6 +196,13 @@ And we have **3 new** files:
 - `c200906efd24ec5e783bee7f23b5d7c941b0c12c`
 - `e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
 
+Type | Hash
+---|---
+commit |`e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
+tree | `5a2554e0627a4bd4da9ea522975b9b97f5278b46`
+blob | `c200906efd24ec5e783bee7f23b5d7c941b0c12c`
+
+
 ## `e1ed46` - commit
 
 ```
