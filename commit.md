@@ -128,7 +128,7 @@ git cat-file -p 61caec3709a1e6473b2f33bfc92bd9d138071e88
 100644 blob 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c	2.txt
 ```
 
-## `58c9bd` - blob `111`
+## `58c9bd` - blob "111"
 
 - Type
 
@@ -203,6 +203,7 @@ $ git cat-file -p 5a2554e0627a4bd4da9ea522975b9b97f5278b46
 040000 tree 61caec3709a1e6473b2f33bfc92bd9d138071e88	files
 ```
 
+## `c20090` - blob "222"
 
 `c200906efd24ec5e783bee7f23b5d7c941b0c12c`
 `e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
