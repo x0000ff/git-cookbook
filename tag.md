@@ -22,6 +22,17 @@ Second
 
 Adding tag you can pass `<commit hash>` or `<object>`
 
+```
+$ git tag first HEAD~2
+```
+
+> `HEAD~2` second son of the HEAD of the current branch
+
+```
+$ git tag seconds develop
+```
+
+> Here `develop` is name of branch
 
 ## List
 
