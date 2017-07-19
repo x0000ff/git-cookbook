@@ -2,4 +2,4 @@
 
 2. [Pro Git book](https://git-scm.com/book/en/v2)
 
-3. [Atlassian's Tutorials]()
+3. [Atlassian's Tutorials](https://www.atlassian.com/git/tutorials)
