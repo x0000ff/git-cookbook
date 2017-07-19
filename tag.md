@@ -33,7 +33,7 @@ $ tree .git/refs
 ```
 
 ```
-$ cat refs/tags/the-beginning
+$ cat .git/refs/tags/the-beginning
 1dc39d54f58d34ce093e3894d26ff736ab65fd25
 ```
 
