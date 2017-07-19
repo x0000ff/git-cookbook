@@ -103,5 +103,9 @@ Changes to be committed:
 10 directories, 15 files
 ```
 
-As you can see appeared new object `#58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
+As you can see appeared new object `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
 
+- What is this?
+It is a blob with contents of `1.txt`
+
+##
