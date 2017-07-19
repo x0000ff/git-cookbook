@@ -94,6 +94,19 @@ My annotation
 
 `242a26...` it's a commit tag points to.
 
+```
+$ tree .git/refs
+.git/refs
+├── heads
+│   ├── feature
+│   └── master
+└── tags
+    ├── another-feature
+    └── the-beginning
+
+2 directories, 4 files
+```
+
 # Further reading
 
 - `$ git help tag`
