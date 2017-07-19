@@ -9,7 +9,13 @@ Tag is an object
 ### Light first
 
 ```
-$ git tag -l "the-beginning"
+$ git tag the-beginning
+```
+
+### Delete
+
+```
+$ git tag -d the-beginning 
 ```
 
 $ git tag -a -m "" my-tag <hash>
