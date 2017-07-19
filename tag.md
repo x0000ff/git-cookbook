@@ -20,7 +20,7 @@ committer Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500360967 -04
 Second
 ```
 
-Adding tag you can pass <commit hash> or <object>
+Adding tag you can pass `<commit hash>` or `<object>`
 
 
 ## List
