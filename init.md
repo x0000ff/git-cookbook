@@ -42,6 +42,11 @@ $ tree .git
 9 directories, 13 files
 ```
 
+---
+
+# Further reading
+
+- `$ git help init`
 
 
 
