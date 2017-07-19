@@ -1,8 +1,7 @@
 # Summary
 
 * [Book](README.md)
-* Notes
-    * [Init](init.md)
+* [Init](init.md)
 * [Links](links.md)
 * [Tools](tools.md)
 
