@@ -107,6 +107,11 @@ $ tree .git/refs
 2 directories, 4 files
 ```
 
+```
+$ cat .git/refs/tags/another-feature
+ecde83ebacd53baf96c26b421a6888c55bae6587
+```
+
 # Further reading
 
 - `$ git help tag`
