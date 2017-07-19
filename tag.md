@@ -15,7 +15,8 @@ $ git tag the-beginning
 ### Delete
 
 ```
-$ git tag -d the-beginning 
+$ git tag -d the-beginning
+Deleted tag 'the-beginning' (was 885bb6c)
 ```
 
 $ git tag -a -m "" my-tag <hash>
