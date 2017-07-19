@@ -196,7 +196,7 @@ And we have **3 new** files:
 - `c200906efd24ec5e783bee7f23b5d7c941b0c12c`
 - `e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
 
-## `zzz` - commit
+## `e1ed46` - commit
 
 ```
 $ git cat-file -t e1ed469b8595e129f85af5b6d1fd70957fa5a95a
