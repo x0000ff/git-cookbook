@@ -12,5 +12,3 @@
 * [Notes](notes.md)
 * [Plumbing](plumbing.md)
   * [cat-file](cat-file.md)
-
-[x](cat-file.md)
