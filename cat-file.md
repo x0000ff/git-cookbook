@@ -12,4 +12,8 @@ Git has a tool to inspect its files: `cat-file`
    $ git cat-file -p <HASH>
    ``` 
 
+---
 
+# Further reading
+
+- [`cat-file` at Pro Git](https://git-scm.com/docs/git-cat-file)
