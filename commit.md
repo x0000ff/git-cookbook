@@ -240,4 +240,6 @@ And now we have graph as at this picture
 
 # Further reading
 
-[Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
+- `$ git help commit`
+
+- [Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
