@@ -192,9 +192,33 @@ $ tree .git/objects
 
 And we have **3 new** files:
 
+- `5a2554e0627a4bd4da9ea522975b9b97f5278b46`
+- `c200906efd24ec5e783bee7f23b5d7c941b0c12c`
+- `e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
+
+## `zzz` - commit
+
+```
+$ git cat-file -t e1ed469b8595e129f85af5b6d1fd70957fa5a95a
+commit
+```
+
+```
+$ git cat-file -p e1ed469b8595e129f85af5b6d1fd70957fa5a95a
+tree 5a2554e0627a4bd4da9ea522975b9b97f5278b46
+parent ce6496b7a3dd69b1ee8e403c22b77a148bd38ec4
+author Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500488288 -0400
+committer Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500488288 -0400
+
+Second commit
+```
+
 ## `5a2554` - tree `.`
 
-`5a2554e0627a4bd4da9ea522975b9b97f5278b46`
+```
+$ git cat-file -t 5a2554e0627a4bd4da9ea522975b9b97f5278b46
+tree
+```
 
 ```
 $ git cat-file -p 5a2554e0627a4bd4da9ea522975b9b97f5278b46
@@ -205,9 +229,7 @@ $ git cat-file -p 5a2554e0627a4bd4da9ea522975b9b97f5278b46
 
 ## `c20090` - blob "222"
 
-`c200906efd24ec5e783bee7f23b5d7c941b0c12c`
-`e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
-
-`5a2554e0627a4bd4da9ea522975b9b97f5278b46`
-`c200906efd24ec5e783bee7f23b5d7c941b0c12c`
-`e1ed469b8595e129f85af5b6d1fd70957fa5a95a`
+```
+$ git cat-file -t c200906efd24ec5e783bee7f23b5d7c941b0c12c
+blob
+```
