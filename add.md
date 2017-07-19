@@ -57,4 +57,16 @@ And now we add the file to the staging area
 
  ```
  $ git add 1.txt
+ ```
+ 
+ ```
+ $ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   1.txt
  ``` 
