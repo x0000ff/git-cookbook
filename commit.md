@@ -236,3 +236,7 @@ And now we have graph as at this picture
 
 ![](/assets/commit-second.png)
 
+---
+
+# Further reading
+
