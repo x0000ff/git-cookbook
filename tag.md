@@ -20,6 +20,18 @@ committer Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500360967 -04
 Second
 ```
 
+```
+$ tree .git/refs
+.git/refs
+├── heads
+│   ├── feature
+│   └── master
+└── tags
+    └── the-beginning
+    
+2 directories, 3 files
+```
+
 Adding tag you can pass `<commit hash>` or `<object>`
 
 ```
