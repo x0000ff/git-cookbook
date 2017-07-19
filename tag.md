@@ -75,6 +75,8 @@ tagger Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500493476 -0400
 My annotation
 ```
 
+`242a26...` it's a commit tag points to.
+
 # Further reading
 
 - `$ git help tag`
