@@ -1,7 +1,5 @@
 # Tag them all!
 
-![](http://m.memegen.com/fx0j1u.jpg)
-
 Tag is an object
 
 ## My first tag
@@ -21,6 +19,9 @@ committer Konstantin Portnov <konstantin.portnov@mercadolibre.cl> 1500360967 -04
 
 Second
 ```
+
+Adding tag you can pass <commit hash> or <object>
+
 
 ## List
 
