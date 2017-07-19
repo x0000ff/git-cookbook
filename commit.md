@@ -137,7 +137,6 @@ $ git cat-file -t 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
 blob
 ```
 
-
 ```
 $ git cat-file -p 58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
 111
