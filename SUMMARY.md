@@ -7,4 +7,5 @@
   * [commit](commit.md)
 * [Links](links.md)
 * [Tools](tools.md)
+* Notes
 
