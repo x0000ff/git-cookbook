@@ -48,7 +48,7 @@ Deleted tag 'the-beginning' (was 885bb6c)
 ### Add - Annotated
 
 ```
-$ git tag -a -m "" my-tag <hash>
+$ git tag -a -m "My annotation" another-feature
 ```
 
 # Further reading
