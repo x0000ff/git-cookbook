@@ -8,6 +8,12 @@
 
 `$ mkdir my-repo`
 
+```
+$ git init
+Initialized empty Git repository in /my-repo/.git/
+```
+
+`$ tree .git`
 
 
 
