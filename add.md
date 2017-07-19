@@ -150,6 +150,20 @@ Changes to be committed:
 
 So, what do we have in the **objects**?
 
+```
+$ tree .git/objects
+.git/objects
+├── 58
+│   └── c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c
+├── info
+└── pack
+
+3 directories, 1 file
+```
+
+**Nothing changed!** 
+**Git** just **can't** create any object because new object will have the same hash and content.
+
 
 
 
