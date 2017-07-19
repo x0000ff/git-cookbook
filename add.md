@@ -165,5 +165,10 @@ $ tree .git/objects
 
 **Git** just **can't create** any **object** because new object will have **the same hash and content**.
 
+## Further reading
+
+[Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
+
+
 
 
