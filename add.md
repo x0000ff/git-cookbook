@@ -119,3 +119,5 @@ As you can see appeared new object `58c9bdf9d017fcd178dc8c073cbfcbb7ff240d6c`
   
 > **Important**
 As you can see hash doesn't depend of time, OS, localization and so on. It means that if you create file with the same content on other machine you will have the same hash.
+
+## But if we add another file with the same content?
