@@ -167,7 +167,7 @@ $ tree .git/objects
 
 ## Further reading
 
-[Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
+[Saving changes](https://www.atlassian.com/git/tutorials/saving-changes)
 
 
 
