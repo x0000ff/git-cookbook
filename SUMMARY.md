@@ -12,3 +12,8 @@
 * [Notes](notes.md)
 * [Plumbing](plumbing.md)
   * [cat-file](cat-file.md)
+
+## Presentations
+
+* [Git 101](presentations/git-101.md)
+
