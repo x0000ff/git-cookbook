@@ -12,7 +12,7 @@
 * [102](102.md)
   * [HEAD](head.md)
   * [checkout](checkout.md)
-* [commit --amend](commit-amend.md)
+  * [commit --amend](commit-amend.md)
 * [Links](links.md)
 * [Tools](tools.md)
 * [Notes](notes.md)
