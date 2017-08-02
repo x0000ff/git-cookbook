@@ -25,3 +25,14 @@ The staged snapshot and the working directory are both updated to match the spec
 
 - [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
 
+## --soft
+
+```
+git reset --soft HEAD~
+➜  temp-repo git:(test) ✗ gs
+On branch test
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   test
+```
