@@ -17,13 +17,11 @@ The staged snapshot and the working directory are both updated to match the spec
 ![](/assets/reset.png)
 > https://wac-cdn.atlassian.com/dam/jcr:2528918b-5c1a-4ab5-8454-88c3a66b14d1/03.svg?cdnVersion=fk
 
---- 
+---
 
-# Further reading
+Before any `reset`
 
-- `$ git help reset`
-
-- [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
+![](https://git-scm.com/images/reset/ex7.png)
 
 ## `--soft`
 
@@ -104,5 +102,10 @@ But files that were added to the staging will be changed to the version that has
 
 # Further reading
 
-https://git-scm.com/blog
+
+- `$ git help reset`
+
+- [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
+
+- https://git-scm.com/blog
 
