@@ -1,0 +1,1 @@
+[Fixing a mistake by rewriting history](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html)
