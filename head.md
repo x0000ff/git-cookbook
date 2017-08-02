@@ -6,7 +6,7 @@ It's the branch which **HEAD will point to the next** created **commit** automat
 
 Inside `.git` folder there is a **simple text** file `HEAD`.
 
-- Current brunch is **feature**
+- Current brunch is `feature` (**points on a reference**)
 ```
 $ cat .git/HEAD
 ref: refs/heads/feature
