@@ -17,3 +17,5 @@ ref: refs/heads/feature
 $ cat .git/HEAD
 51d8dfa0322483a91adda2ef2ef4fe1319ae5a1b
 ```  
+
+You can edit this file manually and it will change current branch.
