@@ -28,8 +28,9 @@ The staged snapshot and the working directory are both updated to match the spec
 ## `--soft`
 
 ```
-git reset --soft HEAD~
-➜  temp-repo git:(test) ✗ gs
+$ git reset --soft HEAD~
+
+$ git status
 On branch test
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
@@ -39,3 +40,18 @@ Changes to be committed:
 
 ## `--mixed`
 
+```
+$ git reset --mixed HEAD~
+Unstaged changes after reset:
+M	test
+
+$ git status
+On branch test
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   test
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
