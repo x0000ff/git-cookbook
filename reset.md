@@ -102,6 +102,27 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 But files that were added to the staging will be changed to the version that has new tree or **deleted** if they don't exist in the tree.
 
+## Recipes
+
+### Undo a commit and redo
+
+> from `git help reset`
+
+```
+$ git commit ...
+$ git reset --soft HEAD^      (1)
+$ edit                        (2)
+$ git commit -a -c ORIG_HEAD  (3)
+```
+
+1. This is most often done when you remembered what you just committed is incomplete, or you misspelled your commit message, or
+both. Leaves working tree as it was before "reset".
+
+2. Make corrections to working tree files.
+
+3. "reset" copies the old head to .git/ORIG_HEAD; redo the commit by starting with its log message. If you do not need to edit the
+message further, you can give -C option instead.
+
 ---
 
 # Further reading
