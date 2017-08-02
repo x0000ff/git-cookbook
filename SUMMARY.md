@@ -5,13 +5,11 @@
 * [Book](README.md)
 * [101](101.md)
   * [init](init.md)
-  * [The Index](the-index.md)
   * [add](add.md)
   * [commit](commit.md)
   * [tag](tag.md)
 * [102](102.md)
   * [commit --amend](commit-amend.md)
-  * [The HEAD](head.md)
   * [reset](reset.md)
   * [checkout](checkout.md)
 * [Links](links.md)
@@ -19,6 +17,13 @@
 * [Notes](notes.md)
 * [Plumbing](plumbing.md)
   * [cat-file](cat-file.md)
+* Glossary
+  * [The Index](the-index.md)
+  * [The HEAD](head.md)
+  * [--](--.md)
+  
+---
+
 
 ## Presentations
 
