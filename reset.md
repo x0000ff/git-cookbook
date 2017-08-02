@@ -11,7 +11,7 @@ There 3 main components of a Git repository
 * `--mixed`
   The staged snapshot is updated to match the specified commit, but the working directory is not affected. This is the default option.
 
-After `mixed` **staging is empty always**. It drops all to the working directory.
+  After `mixed` **staging is empty always**. It drops all to the working directory.
 
 * `--hard`
   The staged snapshot and the working directory are both updated to match the specified commit.
