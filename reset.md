@@ -5,8 +5,6 @@ There 3 main components of a Git repository
 ![](/assets/main-components.png)
 > https://wac-cdn.atlassian.com/dam/jcr:0c5257d5-ff01-4014-af12-faf2aec53cc3/01.svg?cdnVersion=fk
 
-https://git-scm.com/blog
-
 * `--soft`
 The staged snapshot and working directory are not altered in any way.
 
@@ -99,3 +97,6 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 But files that were added to the staging will be changed to the version that has new tree or **deleted** if they don't exist in the tree.
+
+https://git-scm.com/blog
+
