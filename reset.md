@@ -104,9 +104,9 @@ But files that were added to the staging will be changed to the version that has
 
 ## Recipes
 
-### Undo a commit and redo
+... from `git help reset`
 
-> from `git help reset`
+### Undo a commit and redo
 
 ```
 $ git commit ...
@@ -124,6 +124,21 @@ both. Leaves working tree as it was before "reset".
 message further, you can give -C option instead.
 
 See also the --amend option to git-commit(1).
+
+
+### Undo a commit, making it a topic branch
+
+```
+$ git branch topic/wip     (1)
+$ git reset --hard HEAD~3  (2)
+$ git checkout topic/wip   (3)
+```
+
+1. You have made some commits, but realize they were premature to be in the "master" branch. You want to continue polishing them in a topic branch, so create "topic/wip" branch off of the current HEAD.
+
+2. Rewind the master branch to get rid of those three commits.
+
+3. Switch to "topic/wip" branch and keep working.
 
 ---
 
