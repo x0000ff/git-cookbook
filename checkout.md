@@ -29,5 +29,5 @@ So, this command can change current **HEAD** and can change current working tree
 
 # Further reading
 
-* [--](--.md)
-* [tree-ish](tree-ish.md)
+* [What's it "--"?](--.md)
+* [What's it "tree-ish"](tree-ish.md)
