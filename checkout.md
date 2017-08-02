@@ -25,6 +25,14 @@ As you can see in the **NAME** section this command can do 2 things:
 
 So, this command can change current **HEAD** and can change current working tree
 
+# What is it "<tree-ish>"?
+
+"Tree-ish" is a term that refers to any identifier (as specified in the Git revisions documentation) that ultimately leads to a (sub)directory tree"
+~ user456814
+
+- branch
+- tag
+
 # What is it "--"?
 
 Image that you see this command:
