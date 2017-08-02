@@ -40,6 +40,8 @@ Changes to be committed:
 
 ## `--mixed`
 
+![](https://git-scm.com/images/reset/reset-mixed.png)
+
 ```
 $ git reset --mixed HEAD~
 Unstaged changes after reset:
