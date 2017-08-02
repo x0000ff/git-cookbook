@@ -5,6 +5,7 @@
 * [Book](README.md)
 * [101](101.md)
   * [init](init.md)
+  * [The Index](the-index.md)
   * [add](add.md)
   * [commit](commit.md)
   * [tag](tag.md)
@@ -18,7 +19,6 @@
 * [Notes](notes.md)
 * [Plumbing](plumbing.md)
   * [cat-file](cat-file.md)
-* [The Index](the-index.md)
 
 ## Presentations
 
