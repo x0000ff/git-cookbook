@@ -25,7 +25,7 @@ The staged snapshot and the working directory are both updated to match the spec
 
 - [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
 
-## --soft
+## `--soft`
 
 ```
 git reset --soft HEAD~
@@ -36,3 +36,6 @@ Changes to be committed:
 
 	modified:   test
 ```
+
+## `--mixed`
+
