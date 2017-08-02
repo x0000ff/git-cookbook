@@ -66,3 +66,32 @@ $ git status
 On branch test
 nothing to commit, working tree clean
 ```
+
+What about untracked files?
+
+**They won't be affected!**
+
+```
+$ touch a.file
+
+$ git status
+On branch test
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	a.file
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+$ git reset --hard HEAD~
+HEAD is now at aaa3981 Add test
+
+$ git status
+On branch test
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	a.file
+
+nothing added to commit but untracked files present (use "git add" to track)
+```
