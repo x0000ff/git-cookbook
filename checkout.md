@@ -27,5 +27,5 @@ So, this command can change current **HEAD** and can change current working tree
 
 # What is it "--"?
 
-![In “git checkout — files”, what does “--” mean?](https://stackoverflow.com/a/2531228/2374209)
+[In “git checkout — files”, what does “--” mean?](https://stackoverflow.com/a/2531228/2374209)
 
