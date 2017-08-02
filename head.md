@@ -12,7 +12,7 @@ $ cat .git/HEAD
 ref: refs/heads/feature
 ```  
 
-- Detached `HEAD` **points on commit** `51d8df...`
+- Detached `HEAD` state, **points on commit** `51d8df...`
 ```
 $ cat .git/HEAD
 51d8dfa0322483a91adda2ef2ef4fe1319ae5a1b
