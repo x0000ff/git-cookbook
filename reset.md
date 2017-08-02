@@ -98,5 +98,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 But files that were added to the staging will be changed to the version that has new tree or **deleted** if they don't exist in the tree.
 
+---
+
+# Further reading
+
 https://git-scm.com/blog
 
