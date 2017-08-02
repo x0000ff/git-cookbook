@@ -1,6 +1,6 @@
 # What is HEAD?
 
-It's last commit snapshot, next parent
+`HEAD` is the snapshot of your last commit, next parent
 
 # What is **current branch**?
 
