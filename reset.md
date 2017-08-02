@@ -55,3 +55,14 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
+
+## `--hard`
+
+```
+$ git reset --hard HEAD~
+HEAD is now at aaa3981 Add test
+
+$ git status
+On branch test
+nothing to commit, working tree clean
+```
