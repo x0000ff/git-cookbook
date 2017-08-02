@@ -10,7 +10,7 @@
   * [tag](tag.md)
 * [102](102.md)
   * [commit --amend](commit-amend.md)
-  * [HEAD](head.md)
+  * [The HEAD](head.md)
   * [reset](reset.md)
   * [checkout](checkout.md)
 * [Links](links.md)
@@ -18,6 +18,7 @@
 * [Notes](notes.md)
 * [Plumbing](plumbing.md)
   * [cat-file](cat-file.md)
+* [The Index](the-index.md)
 
 ## Presentations
 
