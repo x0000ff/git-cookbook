@@ -36,17 +36,3 @@ For example:
 - commit
 - ref, like HEAD~3, 
 
-# What is it "--"?
-
-The `--` separates the paths from the other options.
-
-Image that you see this command:
-
-```
-$ git checkout A B C
-```
-
-What is `A`? `B` and `C`? Are they file names or git will checkout files `B` and `C` from **branch** `A`?
-
-[In “git checkout — files”, what does “--” mean?](https://stackoverflow.com/a/2531228/2374209)
-
