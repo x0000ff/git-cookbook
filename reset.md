@@ -95,3 +95,5 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
+
+But files added to the staging will be changed to the version that has new `HEAD` or **deleted** if they haven't been commited  
