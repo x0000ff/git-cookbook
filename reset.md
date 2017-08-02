@@ -102,11 +102,11 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 But files that were added to the staging will be changed to the version that has new tree or **deleted** if they don't exist in the tree.
 
-## Recipes
+# Recipes
 
 ... from `git help reset`
 
-### Undo a commit and redo
+## Undo a commit and redo
 
 ```
 $ git commit ...
@@ -126,7 +126,7 @@ message further, you can give -C option instead.
 See also the --amend option to git-commit(1).
 
 
-### Undo a commit, making it a topic branch
+## Undo a commit, making it a topic branch
 
 ```
 $ git branch topic/wip     (1)
