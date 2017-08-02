@@ -11,6 +11,7 @@
   * [reset](reset.md)
 * [102](102.md)
   * [HEAD](head.md)
+  * [checkout](checkout.md)
 * [Links](links.md)
 * [Tools](tools.md)
 * [Notes](notes.md)
