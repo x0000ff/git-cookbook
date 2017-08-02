@@ -111,5 +111,5 @@ But files that were added to the staging will be changed to the version that has
 
 - [Reset, Checkout, and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
 
-- https://git-scm.com/blog
+- [Reset Demystified](https://git-scm.com/blog/2011/07/11/reset.html)
 
