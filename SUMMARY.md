@@ -21,7 +21,7 @@
   * [The Index](the-index.md)
   * [The HEAD](head.md)
   * [--](--.md)
-* [tree-ish](tree-ish.md)
+  * [tree-ish](tree-ish.md)
 
 ## Presentations
 

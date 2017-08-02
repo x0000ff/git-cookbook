@@ -25,3 +25,7 @@ As you can see in the **NAME** section this command can do 2 things:
 
 So, this command can change current **HEAD** and can change current working tree
 
+---
+
+* [--](--.md)
+* [tree-ish](tree-ish.md)
