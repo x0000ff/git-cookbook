@@ -27,6 +27,8 @@ The staged snapshot and the working directory are both updated to match the spec
 
 ## `--soft`
 
+![](https://git-scm.com/images/reset/reset-soft.png)
+
 ```
 $ git reset --soft HEAD~
 
