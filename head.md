@@ -1,4 +1,7 @@
-# What
+# What is HEAD?
+
+It's last commit snapshot, next parent
+
 # What is **current branch**?
 
 It's the branch which **HEAD will point to the next** created **commit** automatically
