@@ -123,6 +123,8 @@ both. Leaves working tree as it was before "reset".
 3. "reset" copies the old head to .git/ORIG_HEAD; redo the commit by starting with its log message. If you do not need to edit the
 message further, you can give -C option instead.
 
+See also the --amend option to git-commit(1).
+
 ---
 
 # Further reading
