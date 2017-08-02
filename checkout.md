@@ -28,7 +28,7 @@ So, this command can change current **HEAD** and can change current working tree
 # What is it `<tree-ish>`?
 
 > Tree-ish" is a term that refers to any identifier (as specified in the Git revisions documentation) that ultimately leads to a (sub)directory tree"
-by user456814
+by user456814 @ https://stackoverflow.com/a/18605496/2374209
 
 For example:
 - branch
@@ -37,6 +37,8 @@ For example:
 - ref, like HEAD~3, 
 
 # What is it "--"?
+
+The `--` separates the paths from the other options.
 
 Image that you see this command:
 
