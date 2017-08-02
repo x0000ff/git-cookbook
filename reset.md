@@ -60,6 +60,8 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 ## `--hard`
 
+![](https://git-scm.com/images/reset/reset-hard.png)
+
 ```
 $ git reset --hard HEAD~
 HEAD is now at aaa3981 Add test
